@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0">
+  <entity name="ArticleEntity" syncable="YES">
+    <attribute name="title" optional="NO" attributeType="String"/>
+    <attribute name="author" optional="YES" attributeType="String"/>
+    <attribute name="urlToImage" optional="YES" attributeType="String"/>
+    <attribute name="url" optional="NO" attributeType="String"/>
+  </entity>
+</model>
